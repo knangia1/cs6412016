@@ -1,6 +1,6 @@
 # cs6412016
 
-// Send an SMS using Twilio
+// sms twilio project
 <?php
 $sid = "ACbab2f7a54c9abd23dd345630992a8dfa"; // Account SID
 $token = "53afa4e77e030d48257ed18d2951e235"; // Auth Token
