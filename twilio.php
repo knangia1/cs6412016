@@ -3,6 +3,8 @@
 $strFromnumber  = "+15162003322";
 $strTonumber    = "+15163847700";
 $strMsg         = " Hello from Kanishk Nangia";
+$aryResponse = array();
+
 
 require_once ("inc/Services/Twilio.php");
 
